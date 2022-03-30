@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
 
-const Recipes = () => {
+const recipes = () => {
   return (
     <Layout>
       <h1>recipes page</h1>
@@ -9,4 +9,4 @@ const Recipes = () => {
   )
 }
 
-export default Recipes
+export default recipes
