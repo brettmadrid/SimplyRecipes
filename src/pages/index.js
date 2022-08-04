@@ -4,7 +4,7 @@ import Layout from "../components/Layout"
 export default function Home() {
   return (
     <Layout>
-      <h2>home</h2>
+      <h1>home</h1>
     </Layout>
   )
 }
