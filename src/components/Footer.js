@@ -2,8 +2,11 @@ import React from "react"
 
 const Footer = () => {
   return (
-    <div>
-      <h2>Footer</h2>
+    <div className="page-footer">
+      <p>
+        &copy; 2022 <span>SimplyRecipes</span>. Built with{" "}
+        <a href="https://www.gatsby.com">Gatsby</a>
+      </p>
     </div>
   )
 }
