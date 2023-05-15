@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="nav-center">
         <div className="nav-header">
           <Link to="/" onClick={() => setShow(false)}>
-            <img src={logo} alt="simply recipes" />
+            <img src={logo} alt="amys recipes" />
           </Link>
           <button className="nav-btn" onClick={() => setShow(!show)}>
             <FaAlignJustify />

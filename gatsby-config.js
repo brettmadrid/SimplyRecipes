@@ -11,14 +11,14 @@ require("dotenv").config({
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: "Simply Recipes",
-    description: "Simple recipes site",
+    title: "Amy's Recipes",
+    description: "Favorite recipes site",
     author: "Brett Madrid",
-    person: { name: "brett", age: 58 },
+    person: { name: "brett", age: 59 },
     simpleData: ["item 1", "item 2"],
     complexData: [
-      { name: "brett", age: 58 },
-      { name: "amy", age: 44 },
+      { name: "brett", age: 59 },
+      { name: "amy", age: 45 },
     ],
   },
   plugins: [
